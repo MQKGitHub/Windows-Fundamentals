@@ -10,8 +10,8 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 
 | Topic Name                | Status        | Link                                                                 |
 |---------------------------|---------------|----------------------------------------------------------------------|
-| Windows Fundamentals 1     | 🔄 In Progress | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-1) |
-| Windows Fundamentals 2     | ⏳ Not Started | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-2) |
+| Windows Fundamentals 1     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-1) |
+| Windows Fundamentals 2     | 🔄 In Progress | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-2) |
 | Windows Fundamentals 3     | ⏳ Not Started | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-3) |
 
 ---
@@ -19,8 +19,9 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 ### 🧠 Overview  
 
 ### 💻 Windows Fundamentals 1  
-- coming soon...
-- coming soon...
+- Learned key Windows concepts including file systems, user management, and system utilities.  
+- Gained essential skills for managing and securing Windows environments.
+
 
 ### 🔐 Windows Fundamentals 2  
 - coming soon...
