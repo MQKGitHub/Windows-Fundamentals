@@ -12,7 +12,7 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 |---------------------------|---------------|----------------------------------------------------------------------|
 | Windows Fundamentals 1     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-1) |
 | Windows Fundamentals 2     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-2) |
-| Windows Fundamentals 3     | 🔄 In Progress | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-3) |
+| Windows Fundamentals 3     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-3) |
 
 ---
 
@@ -28,9 +28,9 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 - Learned how to use GUI and command-line utilities to view performance data, manage services, access system information, and edit the Windows Registry.
 
 
-### 🛠️ Windows Fundamentals 3  
-- coming soon...
-- coming soon...
+### 🪟 Windows Fundamentals 3  
+- Looked at the built-in security features of Windows like Defender, BitLocker, Firewall, and updates to understand how they keep a system protected.  
+- Learned how to manage protection settings, perform scans, and navigate tools like Device Security and Volume Shadow Copies.
 
 ---
 
