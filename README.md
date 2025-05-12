@@ -13,6 +13,7 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 | Windows Fundamentals 1     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-1) |
 | Windows Fundamentals 2     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-2) |
 | Windows Fundamentals 3     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Fundamentals-3) |
+| Active Directory Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Active-Directory-Basics) |
 
 ---
 
@@ -31,6 +32,10 @@ Each room builds on the last, helping me develop essential Windows skills, learn
 ### 🪟 Windows Fundamentals 3  
 - Looked at the built-in security features of Windows like Defender, BitLocker, Firewall, and updates to understand how they keep a system protected.  
 - Learned how to manage protection settings, perform scans, and navigate tools like Device Security and Volume Shadow Copies.
+
+### 🏢 Active Directory Basics  
+- Learned the core structure of Active Directory including domains, organisational units, users, groups, and trust relationships.  
+- Explored how AD is used in enterprise environments for authentication, authorisation, and centralised management of resources.
 
 ---
 
